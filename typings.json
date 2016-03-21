@@ -1,0 +1,5 @@
+{ 
+  "name": "log4js", 
+  "main": "node.d.ts", 
+  "browser": "browser.d.ts"
+} 
