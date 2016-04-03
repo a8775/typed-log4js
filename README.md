@@ -14,5 +14,6 @@ The goal of the project is to check the procedure to host @github own typing fil
 Just run the command in root path of your project:
 
 ```
+npm install log4js --save
 typings install --ambient https://github.com/a8775/typed-log4js/raw/master/typings.json --save
 ```
